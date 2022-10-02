@@ -1,16 +1,14 @@
 # calculadora
 
-A new Flutter project.
+Uma simples calculadora criada em flutter acompanhando um tutorial no youtube.
 
-## Getting Started
+# Imagem
 
-This project is a starting point for a Flutter application.
+<img src="assets/img1.jpeg" alt="drawing" width="200"/>
+<img src="assets/img2.jpeg" alt="drawing" style="width:200px;"/>
 
-A few resources to get you started if this is your first Flutter project:
+## fonte
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Tutorial Calculadora ](https://www.youtube.com/watch?v=jyjdXFsQoYw)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [online documentation](https://docs.flutter.dev/)
